@@ -1,5 +1,5 @@
 # DocScanner
-This project entails a built-from-scratch document scanner using [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/) and [NumPy](https://numpy.org).
+This project entails a built-from-scratch document scanner using [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/) and [NumPy](https://numpy.org). It can take the user's custom image input as well as has the option of capturing the image through the webcam.
 
 # PipeLine
 <img src = "extras/Pipeline.png" height = 700 width = 900>
@@ -16,12 +16,13 @@ First, create a virtual enviornment in your local drive.
 ```
 Then, download all the dependencies by running the following code in your terminal
 ```
+pip3 install -r requirements.txt
 
 ```
 
 
 # Known Issues
-
+- Webcam capture does not working efficiently as of now. Contour detection fails most of the time. Low resolution from the webcam also does not help.
 
 # References
 
