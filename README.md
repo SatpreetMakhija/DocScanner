@@ -28,7 +28,8 @@ A window similar to the one in 'Visual Outcomes for Display' opens up. Press 'q'
 - Webcam capture does not working efficiently as of now. Contour detection fails most of the time. Low resolution from the webcam also does not help.
 
 # References
-
+[OpenCV-Python Tutorial's documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/)
+Youtube Channel - [Murtaza's Workshop](https://www.youtube.com/watch?v=ON_JubFRw8M&t=512s)
 
 
 ## License
