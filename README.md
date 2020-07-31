@@ -9,7 +9,15 @@ This project entails a built-from-scratch document scanner using [OpenCV](https:
 <img src = "extras/working.png" height = 600 width = 700>
 
 # Set-up/ How to use
+Must have Python3.4+ installed in your machine.
+First, create a virtual enviornment in your local drive.
+```
+ python3 -m venv docscanner
+```
+Then, download all the dependencies by running the following code in your terminal
+```
 
+```
 
 
 # Known Issues
