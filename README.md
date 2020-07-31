@@ -19,8 +19,11 @@ Then, download all the dependencies by running the following code in your termin
 pip3 install -r requirements.txt
 
 ```
-
-
+Then run the following command to run the main code
+```
+python3 main.py -img \path\to\your\image
+```
+A window similar to the one in 'Visual Outcomes for Display' opens up. Press 'q' to save the image. The image is saved in the 'Scanned' folder.
 # Known Issues
 - Webcam capture does not working efficiently as of now. Contour detection fails most of the time. Low resolution from the webcam also does not help.
 
