@@ -5,7 +5,8 @@ This project entails a built-from-scratch document scanner using [OpenCV](https:
 <img src = "extras/Pipeline.png" height = 700 width = 900>
 
 # Visual Outcomes for Display
-
+### When it WORKS!
+<img src = "extras/working.png" height = 600 width = 700>
 
 # Set-up/ How to use
 
