@@ -1,5 +1,5 @@
 # DocScanner
-This project entails a built-from-scratch document scanner using OpenCV and NumPy.
+This project entails a built-from-scratch document scanner using [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/) and [NumPy](https://numpy.org).
 
 # PipeLine
 
